@@ -1,6 +1,5 @@
-_build/nrf52840_xxaa/utf.c.o: \
- ../../../../../../external/utf_converter/utf.c \
- ../../../../../../external/utf_converter/utf.h \
+_build/nrf52840_xxaa/utf.c.o: ../../../../../external/utf_converter/utf.c \
+ ../../../../../external/utf_converter/utf.h \
  c:\program\ files\ (x86)\gnu\ tools\ arm\ embedded\7\ 2018-q2-update\lib\gcc\arm-none-eabi\7.3.1\include\stddef.h \
  c:\program\ files\ (x86)\gnu\ tools\ arm\ embedded\7\ 2018-q2-update\lib\gcc\arm-none-eabi\7.3.1\include\stdint.h \
  c:\program\ files\ (x86)\gnu\ tools\ arm\ embedded\7\ 2018-q2-update\arm-none-eabi\include\stdint.h \
@@ -10,7 +9,7 @@ _build/nrf52840_xxaa/utf.c.o: \
  c:\program\ files\ (x86)\gnu\ tools\ arm\ embedded\7\ 2018-q2-update\arm-none-eabi\include\sys\_intsup.h \
  c:\program\ files\ (x86)\gnu\ tools\ arm\ embedded\7\ 2018-q2-update\arm-none-eabi\include\sys\_stdint.h
 
-../../../../../../external/utf_converter/utf.h:
+../../../../../external/utf_converter/utf.h:
 
 c:\program\ files\ (x86)\gnu\ tools\ arm\ embedded\7\ 2018-q2-update\lib\gcc\arm-none-eabi\7.3.1\include\stddef.h:
 
