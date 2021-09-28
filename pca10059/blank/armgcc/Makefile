@@ -73,6 +73,7 @@ SRC_FILES += \
   $(SDK_ROOT)/external/segger_rtt/SEGGER_RTT_printf.c \
   $(SDK_ROOT)/modules/nrfx/mdk/system_nrf52840.c \
   $(SDK_ROOT)/external/utf_converter/utf.c \
+  $(PROJ_DIR)/CustomNCP/Customncp.c \
 
 # Include folders common to all targets
 INC_FOLDERS += \
@@ -106,6 +107,7 @@ INC_FOLDERS += \
   $(SDK_ROOT)/components/libraries/usbd/class/cdc/acm \
   $(SDK_ROOT)/components/libraries/mutex \
   $(PROJ_DIR) \
+  $(PROJ_DIR)/CustomNCP \
   $(SDK_ROOT)/components/libraries/delay \
   $(SDK_ROOT)/external/segger_rtt \
   $(SDK_ROOT)/components/libraries/atomic_fifo \

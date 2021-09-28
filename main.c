@@ -41,6 +41,7 @@
 #include <stdbool.h>
 #include <stddef.h>
 #include <stdio.h>
+#include <string.h>
 
 #include "nrf.h"
 #include "nrf_drv_usbd.h"
@@ -66,6 +67,93 @@
 #include "nrf_log.h"
 #include "nrf_log_ctrl.h"
 #include "nrf_log_default_backends.h"
+
+// NCP INCLUDES START //
+#include <string.h>
+
+#include "app_scheduler.h"
+#include "app_timer.h"
+#include "bsp_thread.h"
+#include "nrf_assert.h"
+
+#include <openthread/ncp.h>
+#include <openthread/tasklet.h>
+#include <openthread/thread_ftd.h>
+#include <openthread/platform/openthread-system.h>
+
+#define ROUTER_SELECTION_JITTER  5                               /**< A value of router selection jitter. */
+#define SCHED_QUEUE_SIZE         32                              /**< Maximum number of events in the scheduler queue. */
+#define SCHED_EVENT_DATA_SIZE    APP_TIMER_SCHED_EVENT_DATA_SIZE /**< Maximum app_scheduler event size. */
+
+typedef struct
+{
+    otInstance * p_ot_instance;
+} application_t;
+
+static application_t m_app =
+{
+    .p_ot_instance = NULL
+};
+
+
+/***************************************************************************************************
+ * @section Initialization
+ **************************************************************************************************/
+
+ /**@brief Function for initializing the Thread Stack in NCP mode.
+ */
+static void thread_ncp_init(void)
+{
+    // otSysInit(0, NULL);
+
+    m_app.p_ot_instance = otInstanceInitSingle();
+    ASSERT(m_app.p_ot_instance);
+
+    otNcpInit(m_app.p_ot_instance);
+
+    otThreadSetRouterSelectionJitter(m_app.p_ot_instance, ROUTER_SELECTION_JITTER);
+
+    uint32_t err_code = bsp_thread_init(m_app.p_ot_instance);
+    APP_ERROR_CHECK(err_code);
+}
+
+/**@brief Function for deinitializing the Thread Stack in NCP mode.
+*/
+static void thread_ncp_deinit(void)
+{
+    bsp_thread_deinit(m_app.p_ot_instance);
+    otInstanceFinalize(m_app.p_ot_instance);
+    m_app.p_ot_instance = NULL;
+}
+
+
+/**@brief Function for initializing the Application Timer Module.
+ */
+static void timer_init(void)
+{
+    uint32_t err_code = app_timer_init();
+    APP_ERROR_CHECK(err_code);
+}
+
+
+/**@brief Function for initializing the LEDs.
+ */
+static void leds_init(void)
+{
+    LEDS_CONFIGURE(LEDS_MASK);
+    LEDS_OFF(LEDS_MASK);
+}
+
+
+/**@brief Function for processing Thread stack.
+ */
+static void thread_process(void)
+{
+    otTaskletsProcess(m_app.p_ot_instance);
+    otSysProcessDrivers(m_app.p_ot_instance);
+}
+
+// NCP INCLUDES END //
 
 /**
  * @brief CLI interface over UART
@@ -287,6 +375,15 @@ static void init_cli(void)
     APP_ERROR_CHECK(ret);
 }
 
+void init_ncp(void)
+{
+    timer_init();
+    leds_init();
+
+    uint32_t err_code = bsp_init(BSP_INIT_LEDS, NULL);
+    APP_ERROR_CHECK(err_code);
+}
+
 int main(void)
 {
     ret_code_t ret;
@@ -312,12 +409,13 @@ int main(void)
 
     init_bsp();
     init_cli();
+    init_ncp();
 
     app_usbd_serial_num_generate();
 
     ret = app_usbd_init(&usbd_config);
     APP_ERROR_CHECK(ret);
-    NRF_LOG_INFO("USBD CDC ACM example started.");
+    NRF_LOG_INFO("Usb and Ncp(Dongle thread) example started.");
 
     app_usbd_class_inst_t const * class_cdc_acm = app_usbd_cdc_acm_class_inst_get(&m_app_cdc_acm);
     ret = app_usbd_class_append(class_cdc_acm);
@@ -334,6 +432,25 @@ int main(void)
 
         app_usbd_enable();
         app_usbd_start();
+    }
+    
+    //////// THIS CODE IS JUST TO CHECK THAT IT COMPILES. THIS NEEDS TO BE PROPERLY FITTED LATER TO THE WHOLE APPLICATION
+    // NCP Code 
+    thread_ncp_init();
+    if(false)
+    {
+        while (!otSysPseudoResetWasRequested())
+        {
+            thread_process();
+
+            // Enter sleep state if no more tasks are pending.
+            if (!otTaskletsArePending(m_app.p_ot_instance))
+            {
+                __WFE();
+            }
+           thread_ncp_deinit();
+        }
+
     }
 
     while (true)
@@ -362,6 +479,7 @@ int main(void)
         UNUSED_RETURN_VALUE(NRF_LOG_PROCESS());
         /* Sleep CPU only if there was no interrupt since last loop processing */
         __WFE();
+
     }
 }
 
