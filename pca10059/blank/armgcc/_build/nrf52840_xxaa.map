@@ -3264,87 +3264,6 @@ Discarded input sections
  .debug_frame   0x00000000       0x88 _build/nrf52840_xxaa/fnmatch.c.o
  .ARM.attributes
                 0x00000000       0x39 _build/nrf52840_xxaa/fnmatch.c.o
- .group         0x00000000        0xc _build/nrf52840_xxaa/hardfault_handler_gcc.c.o
- .group         0x00000000        0xc _build/nrf52840_xxaa/hardfault_handler_gcc.c.o
- .group         0x00000000        0xc _build/nrf52840_xxaa/hardfault_handler_gcc.c.o
- .group         0x00000000        0xc _build/nrf52840_xxaa/hardfault_handler_gcc.c.o
- .group         0x00000000        0xc _build/nrf52840_xxaa/hardfault_handler_gcc.c.o
- .group         0x00000000        0xc _build/nrf52840_xxaa/hardfault_handler_gcc.c.o
- .group         0x00000000        0xc _build/nrf52840_xxaa/hardfault_handler_gcc.c.o
- .group         0x00000000        0xc _build/nrf52840_xxaa/hardfault_handler_gcc.c.o
- .group         0x00000000        0xc _build/nrf52840_xxaa/hardfault_handler_gcc.c.o
- .group         0x00000000        0xc _build/nrf52840_xxaa/hardfault_handler_gcc.c.o
- .group         0x00000000        0xc _build/nrf52840_xxaa/hardfault_handler_gcc.c.o
- .group         0x00000000        0xc _build/nrf52840_xxaa/hardfault_handler_gcc.c.o
- .group         0x00000000        0xc _build/nrf52840_xxaa/hardfault_handler_gcc.c.o
- .group         0x00000000        0xc _build/nrf52840_xxaa/hardfault_handler_gcc.c.o
- .group         0x00000000        0xc _build/nrf52840_xxaa/hardfault_handler_gcc.c.o
- .group         0x00000000        0xc _build/nrf52840_xxaa/hardfault_handler_gcc.c.o
- .group         0x00000000        0xc _build/nrf52840_xxaa/hardfault_handler_gcc.c.o
- .group         0x00000000        0xc _build/nrf52840_xxaa/hardfault_handler_gcc.c.o
- .group         0x00000000        0xc _build/nrf52840_xxaa/hardfault_handler_gcc.c.o
- .group         0x00000000        0xc _build/nrf52840_xxaa/hardfault_handler_gcc.c.o
- .group         0x00000000        0xc _build/nrf52840_xxaa/hardfault_handler_gcc.c.o
- .group         0x00000000        0xc _build/nrf52840_xxaa/hardfault_handler_gcc.c.o
- .group         0x00000000        0xc _build/nrf52840_xxaa/hardfault_handler_gcc.c.o
- .group         0x00000000        0xc _build/nrf52840_xxaa/hardfault_handler_gcc.c.o
- .group         0x00000000        0xc _build/nrf52840_xxaa/hardfault_handler_gcc.c.o
- .group         0x00000000        0xc _build/nrf52840_xxaa/hardfault_handler_gcc.c.o
- .group         0x00000000        0xc _build/nrf52840_xxaa/hardfault_handler_gcc.c.o
- .group         0x00000000        0xc _build/nrf52840_xxaa/hardfault_handler_gcc.c.o
- .group         0x00000000        0xc _build/nrf52840_xxaa/hardfault_handler_gcc.c.o
- .group         0x00000000        0xc _build/nrf52840_xxaa/hardfault_handler_gcc.c.o
- .group         0x00000000        0xc _build/nrf52840_xxaa/hardfault_handler_gcc.c.o
- .group         0x00000000        0xc _build/nrf52840_xxaa/hardfault_handler_gcc.c.o
- .group         0x00000000        0xc _build/nrf52840_xxaa/hardfault_handler_gcc.c.o
- .group         0x00000000        0xc _build/nrf52840_xxaa/hardfault_handler_gcc.c.o
- .group         0x00000000        0xc _build/nrf52840_xxaa/hardfault_handler_gcc.c.o
- .group         0x00000000        0xc _build/nrf52840_xxaa/hardfault_handler_gcc.c.o
- .group         0x00000000        0xc _build/nrf52840_xxaa/hardfault_handler_gcc.c.o
- .group         0x00000000        0xc _build/nrf52840_xxaa/hardfault_handler_gcc.c.o
- .group         0x00000000        0xc _build/nrf52840_xxaa/hardfault_handler_gcc.c.o
- .text          0x00000000        0x0 _build/nrf52840_xxaa/hardfault_handler_gcc.c.o
- .data          0x00000000        0x0 _build/nrf52840_xxaa/hardfault_handler_gcc.c.o
- .bss           0x00000000        0x0 _build/nrf52840_xxaa/hardfault_handler_gcc.c.o
- .debug_macro   0x00000000      0xa72 _build/nrf52840_xxaa/hardfault_handler_gcc.c.o
- .debug_macro   0x00000000       0x22 _build/nrf52840_xxaa/hardfault_handler_gcc.c.o
- .debug_macro   0x00000000       0x56 _build/nrf52840_xxaa/hardfault_handler_gcc.c.o
- .debug_macro   0x00000000       0x51 _build/nrf52840_xxaa/hardfault_handler_gcc.c.o
- .debug_macro   0x00000000       0xef _build/nrf52840_xxaa/hardfault_handler_gcc.c.o
- .debug_macro   0x00000000       0x6a _build/nrf52840_xxaa/hardfault_handler_gcc.c.o
- .debug_macro   0x00000000      0x1df _build/nrf52840_xxaa/hardfault_handler_gcc.c.o
- .debug_macro   0x00000000       0x22 _build/nrf52840_xxaa/hardfault_handler_gcc.c.o
- .debug_macro   0x00000000       0x5e _build/nrf52840_xxaa/hardfault_handler_gcc.c.o
- .debug_macro   0x00000000       0x18 _build/nrf52840_xxaa/hardfault_handler_gcc.c.o
- .debug_macro   0x00000000       0x35 _build/nrf52840_xxaa/hardfault_handler_gcc.c.o
- .debug_macro   0x00000000       0x34 _build/nrf52840_xxaa/hardfault_handler_gcc.c.o
- .debug_macro   0x00000000      0x16d _build/nrf52840_xxaa/hardfault_handler_gcc.c.o
- .debug_macro   0x00000000       0x58 _build/nrf52840_xxaa/hardfault_handler_gcc.c.o
- .debug_macro   0x00000000       0x1f _build/nrf52840_xxaa/hardfault_handler_gcc.c.o
- .debug_macro   0x00000000       0x43 _build/nrf52840_xxaa/hardfault_handler_gcc.c.o
- .debug_macro   0x00000000       0x20 _build/nrf52840_xxaa/hardfault_handler_gcc.c.o
- .debug_macro   0x00000000      0x18e _build/nrf52840_xxaa/hardfault_handler_gcc.c.o
- .debug_macro   0x00000000      0x353 _build/nrf52840_xxaa/hardfault_handler_gcc.c.o
- .debug_macro   0x00000000       0x10 _build/nrf52840_xxaa/hardfault_handler_gcc.c.o
- .debug_macro   0x00000000       0x35 _build/nrf52840_xxaa/hardfault_handler_gcc.c.o
- .debug_macro   0x00000000      0xb00 _build/nrf52840_xxaa/hardfault_handler_gcc.c.o
- .debug_macro   0x00000000      0x16d _build/nrf52840_xxaa/hardfault_handler_gcc.c.o
- .debug_macro   0x00000000       0x2e _build/nrf52840_xxaa/hardfault_handler_gcc.c.o
- .debug_macro   0x00000000       0x22 _build/nrf52840_xxaa/hardfault_handler_gcc.c.o
- .debug_macro   0x00000000       0x8e _build/nrf52840_xxaa/hardfault_handler_gcc.c.o
- .debug_macro   0x00000000       0xa7 _build/nrf52840_xxaa/hardfault_handler_gcc.c.o
- .debug_macro   0x00000000       0x22 _build/nrf52840_xxaa/hardfault_handler_gcc.c.o
- .debug_macro   0x00000000       0x2d _build/nrf52840_xxaa/hardfault_handler_gcc.c.o
- .debug_macro   0x00000000       0x3b _build/nrf52840_xxaa/hardfault_handler_gcc.c.o
- .debug_macro   0x00000000       0x50 _build/nrf52840_xxaa/hardfault_handler_gcc.c.o
- .debug_macro   0x00000000      0xe66 _build/nrf52840_xxaa/hardfault_handler_gcc.c.o
- .debug_macro   0x00000000      0x402 _build/nrf52840_xxaa/hardfault_handler_gcc.c.o
- .debug_macro   0x00000000     0xfe8b _build/nrf52840_xxaa/hardfault_handler_gcc.c.o
- .debug_macro   0x00000000      0xa4c _build/nrf52840_xxaa/hardfault_handler_gcc.c.o
- .debug_macro   0x00000000       0xb2 _build/nrf52840_xxaa/hardfault_handler_gcc.c.o
- .debug_macro   0x00000000      0x7ae _build/nrf52840_xxaa/hardfault_handler_gcc.c.o
- .debug_macro   0x00000000       0x16 _build/nrf52840_xxaa/hardfault_handler_gcc.c.o
- .debug_macro   0x00000000       0x4e _build/nrf52840_xxaa/hardfault_handler_gcc.c.o
  .group         0x00000000        0xc _build/nrf52840_xxaa/hardfault_implementation.c.o
  .group         0x00000000        0xc _build/nrf52840_xxaa/hardfault_implementation.c.o
  .group         0x00000000        0xc _build/nrf52840_xxaa/hardfault_implementation.c.o
@@ -3466,6 +3385,87 @@ Discarded input sections
  .debug_macro   0x00000000       0x10 _build/nrf52840_xxaa/hardfault_implementation.c.o
  .debug_macro   0x00000000       0x1d _build/nrf52840_xxaa/hardfault_implementation.c.o
  .debug_macro   0x00000000       0x1c _build/nrf52840_xxaa/hardfault_implementation.c.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/hardfault_handler_gcc.c.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/hardfault_handler_gcc.c.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/hardfault_handler_gcc.c.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/hardfault_handler_gcc.c.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/hardfault_handler_gcc.c.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/hardfault_handler_gcc.c.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/hardfault_handler_gcc.c.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/hardfault_handler_gcc.c.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/hardfault_handler_gcc.c.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/hardfault_handler_gcc.c.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/hardfault_handler_gcc.c.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/hardfault_handler_gcc.c.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/hardfault_handler_gcc.c.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/hardfault_handler_gcc.c.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/hardfault_handler_gcc.c.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/hardfault_handler_gcc.c.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/hardfault_handler_gcc.c.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/hardfault_handler_gcc.c.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/hardfault_handler_gcc.c.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/hardfault_handler_gcc.c.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/hardfault_handler_gcc.c.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/hardfault_handler_gcc.c.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/hardfault_handler_gcc.c.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/hardfault_handler_gcc.c.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/hardfault_handler_gcc.c.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/hardfault_handler_gcc.c.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/hardfault_handler_gcc.c.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/hardfault_handler_gcc.c.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/hardfault_handler_gcc.c.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/hardfault_handler_gcc.c.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/hardfault_handler_gcc.c.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/hardfault_handler_gcc.c.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/hardfault_handler_gcc.c.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/hardfault_handler_gcc.c.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/hardfault_handler_gcc.c.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/hardfault_handler_gcc.c.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/hardfault_handler_gcc.c.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/hardfault_handler_gcc.c.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/hardfault_handler_gcc.c.o
+ .text          0x00000000        0x0 _build/nrf52840_xxaa/hardfault_handler_gcc.c.o
+ .data          0x00000000        0x0 _build/nrf52840_xxaa/hardfault_handler_gcc.c.o
+ .bss           0x00000000        0x0 _build/nrf52840_xxaa/hardfault_handler_gcc.c.o
+ .debug_macro   0x00000000      0xa72 _build/nrf52840_xxaa/hardfault_handler_gcc.c.o
+ .debug_macro   0x00000000       0x22 _build/nrf52840_xxaa/hardfault_handler_gcc.c.o
+ .debug_macro   0x00000000       0x56 _build/nrf52840_xxaa/hardfault_handler_gcc.c.o
+ .debug_macro   0x00000000       0x51 _build/nrf52840_xxaa/hardfault_handler_gcc.c.o
+ .debug_macro   0x00000000       0xef _build/nrf52840_xxaa/hardfault_handler_gcc.c.o
+ .debug_macro   0x00000000       0x6a _build/nrf52840_xxaa/hardfault_handler_gcc.c.o
+ .debug_macro   0x00000000      0x1df _build/nrf52840_xxaa/hardfault_handler_gcc.c.o
+ .debug_macro   0x00000000       0x22 _build/nrf52840_xxaa/hardfault_handler_gcc.c.o
+ .debug_macro   0x00000000       0x5e _build/nrf52840_xxaa/hardfault_handler_gcc.c.o
+ .debug_macro   0x00000000       0x18 _build/nrf52840_xxaa/hardfault_handler_gcc.c.o
+ .debug_macro   0x00000000       0x35 _build/nrf52840_xxaa/hardfault_handler_gcc.c.o
+ .debug_macro   0x00000000       0x34 _build/nrf52840_xxaa/hardfault_handler_gcc.c.o
+ .debug_macro   0x00000000      0x16d _build/nrf52840_xxaa/hardfault_handler_gcc.c.o
+ .debug_macro   0x00000000       0x58 _build/nrf52840_xxaa/hardfault_handler_gcc.c.o
+ .debug_macro   0x00000000       0x1f _build/nrf52840_xxaa/hardfault_handler_gcc.c.o
+ .debug_macro   0x00000000       0x43 _build/nrf52840_xxaa/hardfault_handler_gcc.c.o
+ .debug_macro   0x00000000       0x20 _build/nrf52840_xxaa/hardfault_handler_gcc.c.o
+ .debug_macro   0x00000000      0x18e _build/nrf52840_xxaa/hardfault_handler_gcc.c.o
+ .debug_macro   0x00000000      0x353 _build/nrf52840_xxaa/hardfault_handler_gcc.c.o
+ .debug_macro   0x00000000       0x10 _build/nrf52840_xxaa/hardfault_handler_gcc.c.o
+ .debug_macro   0x00000000       0x35 _build/nrf52840_xxaa/hardfault_handler_gcc.c.o
+ .debug_macro   0x00000000      0xb00 _build/nrf52840_xxaa/hardfault_handler_gcc.c.o
+ .debug_macro   0x00000000      0x16d _build/nrf52840_xxaa/hardfault_handler_gcc.c.o
+ .debug_macro   0x00000000       0x2e _build/nrf52840_xxaa/hardfault_handler_gcc.c.o
+ .debug_macro   0x00000000       0x22 _build/nrf52840_xxaa/hardfault_handler_gcc.c.o
+ .debug_macro   0x00000000       0x8e _build/nrf52840_xxaa/hardfault_handler_gcc.c.o
+ .debug_macro   0x00000000       0xa7 _build/nrf52840_xxaa/hardfault_handler_gcc.c.o
+ .debug_macro   0x00000000       0x22 _build/nrf52840_xxaa/hardfault_handler_gcc.c.o
+ .debug_macro   0x00000000       0x2d _build/nrf52840_xxaa/hardfault_handler_gcc.c.o
+ .debug_macro   0x00000000       0x3b _build/nrf52840_xxaa/hardfault_handler_gcc.c.o
+ .debug_macro   0x00000000       0x50 _build/nrf52840_xxaa/hardfault_handler_gcc.c.o
+ .debug_macro   0x00000000      0xe66 _build/nrf52840_xxaa/hardfault_handler_gcc.c.o
+ .debug_macro   0x00000000      0x402 _build/nrf52840_xxaa/hardfault_handler_gcc.c.o
+ .debug_macro   0x00000000     0xfe8b _build/nrf52840_xxaa/hardfault_handler_gcc.c.o
+ .debug_macro   0x00000000      0xa4c _build/nrf52840_xxaa/hardfault_handler_gcc.c.o
+ .debug_macro   0x00000000       0xb2 _build/nrf52840_xxaa/hardfault_handler_gcc.c.o
+ .debug_macro   0x00000000      0x7ae _build/nrf52840_xxaa/hardfault_handler_gcc.c.o
+ .debug_macro   0x00000000       0x16 _build/nrf52840_xxaa/hardfault_handler_gcc.c.o
+ .debug_macro   0x00000000       0x4e _build/nrf52840_xxaa/hardfault_handler_gcc.c.o
  .group         0x00000000        0xc _build/nrf52840_xxaa/nrf_assert.c.o
  .group         0x00000000        0xc _build/nrf52840_xxaa/nrf_assert.c.o
  .group         0x00000000        0xc _build/nrf52840_xxaa/nrf_assert.c.o
@@ -15626,15 +15626,15 @@ Linker script and memory map
  .text.app_usbd_string_desc_get
                 0x00006250       0x68 _build/nrf52840_xxaa/app_usbd_string_desc.c.o
                 0x00006250                app_usbd_string_desc_get
- .text.HardFault_Handler
-                0x000062b8       0x34 _build/nrf52840_xxaa/hardfault_handler_gcc.c.o
-                0x000062b8                HardFault_Handler
  .text.HardFault_process
-                0x000062ec       0x24 _build/nrf52840_xxaa/hardfault_implementation.c.o
-                0x000062ec                HardFault_process
+                0x000062b8       0x24 _build/nrf52840_xxaa/hardfault_implementation.c.o
+                0x000062b8                HardFault_process
  .text.HardFault_c_handler
-                0x00006310      0x15c _build/nrf52840_xxaa/hardfault_implementation.c.o
-                0x00006310                HardFault_c_handler
+                0x000062dc      0x15c _build/nrf52840_xxaa/hardfault_implementation.c.o
+                0x000062dc                HardFault_c_handler
+ .text.HardFault_Handler
+                0x00006438       0x34 _build/nrf52840_xxaa/hardfault_handler_gcc.c.o
+                0x00006438                HardFault_Handler
  .text.nrf_atfifo_init
                 0x0000646c       0x30 _build/nrf52840_xxaa/nrf_atfifo.c.o
                 0x0000646c                nrf_atfifo_init
@@ -17780,8 +17780,8 @@ LOAD _build/nrf52840_xxaa/app_usbd_serial_num.c.o
 LOAD _build/nrf52840_xxaa/app_usbd_string_desc.c.o
 LOAD _build/nrf52840_xxaa/assert.c.o
 LOAD _build/nrf52840_xxaa/fnmatch.c.o
-LOAD _build/nrf52840_xxaa/hardfault_handler_gcc.c.o
 LOAD _build/nrf52840_xxaa/hardfault_implementation.c.o
+LOAD _build/nrf52840_xxaa/hardfault_handler_gcc.c.o
 LOAD _build/nrf52840_xxaa/nrf_assert.c.o
 LOAD _build/nrf52840_xxaa/nrf_atfifo.c.o
 LOAD _build/nrf52840_xxaa/nrf_atomic.c.o
@@ -18445,9 +18445,9 @@ OUTPUT(_build/nrf52840_xxaa.out elf32-littlearm)
  .ARM.attributes
                 0x000003ed       0x39 _build/nrf52840_xxaa/app_usbd_string_desc.c.o
  .ARM.attributes
-                0x00000426       0x39 _build/nrf52840_xxaa/hardfault_handler_gcc.c.o
+                0x00000426       0x39 _build/nrf52840_xxaa/hardfault_implementation.c.o
  .ARM.attributes
-                0x0000045f       0x39 _build/nrf52840_xxaa/hardfault_implementation.c.o
+                0x0000045f       0x39 _build/nrf52840_xxaa/hardfault_handler_gcc.c.o
  .ARM.attributes
                 0x00000498       0x39 _build/nrf52840_xxaa/nrf_atfifo.c.o
  .ARM.attributes
@@ -18717,8 +18717,8 @@ OUTPUT(_build/nrf52840_xxaa.out elf32-littlearm)
  .comment       0x0000007f       0x80 _build/nrf52840_xxaa/app_util_platform.c.o
  .comment       0x0000007f       0x80 _build/nrf52840_xxaa/app_usbd_serial_num.c.o
  .comment       0x0000007f       0x80 _build/nrf52840_xxaa/app_usbd_string_desc.c.o
- .comment       0x0000007f       0x80 _build/nrf52840_xxaa/hardfault_handler_gcc.c.o
  .comment       0x0000007f       0x80 _build/nrf52840_xxaa/hardfault_implementation.c.o
+ .comment       0x0000007f       0x80 _build/nrf52840_xxaa/hardfault_handler_gcc.c.o
  .comment       0x0000007f       0x80 _build/nrf52840_xxaa/nrf_atfifo.c.o
  .comment       0x0000007f       0x80 _build/nrf52840_xxaa/nrf_atomic.c.o
  .comment       0x0000007f       0x80 _build/nrf52840_xxaa/nrf_balloc.c.o
@@ -18793,8 +18793,8 @@ OUTPUT(_build/nrf52840_xxaa.out elf32-littlearm)
  .debug_line    0x00009bc1      0x5a2 _build/nrf52840_xxaa/app_util_platform.c.o
  .debug_line    0x0000a163      0x841 _build/nrf52840_xxaa/app_usbd_serial_num.c.o
  .debug_line    0x0000a9a4      0x8a0 _build/nrf52840_xxaa/app_usbd_string_desc.c.o
- .debug_line    0x0000b244      0x514 _build/nrf52840_xxaa/hardfault_handler_gcc.c.o
- .debug_line    0x0000b758      0x867 _build/nrf52840_xxaa/hardfault_implementation.c.o
+ .debug_line    0x0000b244      0x867 _build/nrf52840_xxaa/hardfault_implementation.c.o
+ .debug_line    0x0000baab      0x514 _build/nrf52840_xxaa/hardfault_handler_gcc.c.o
  .debug_line    0x0000bfbf      0x781 _build/nrf52840_xxaa/nrf_atfifo.c.o
  .debug_line    0x0000c740      0x6b1 _build/nrf52840_xxaa/nrf_atomic.c.o
  .debug_line    0x0000cdf1      0x912 _build/nrf52840_xxaa/nrf_balloc.c.o
@@ -18868,8 +18868,8 @@ OUTPUT(_build/nrf52840_xxaa.out elf32-littlearm)
  .debug_info    0x0001e336      0xfca _build/nrf52840_xxaa/app_util_platform.c.o
  .debug_info    0x0001f300      0xed2 _build/nrf52840_xxaa/app_usbd_serial_num.c.o
  .debug_info    0x000201d2     0x1002 _build/nrf52840_xxaa/app_usbd_string_desc.c.o
- .debug_info    0x000211d4      0x917 _build/nrf52840_xxaa/hardfault_handler_gcc.c.o
- .debug_info    0x00021aeb     0x1065 _build/nrf52840_xxaa/hardfault_implementation.c.o
+ .debug_info    0x000211d4     0x1065 _build/nrf52840_xxaa/hardfault_implementation.c.o
+ .debug_info    0x00022239      0x917 _build/nrf52840_xxaa/hardfault_handler_gcc.c.o
  .debug_info    0x00022b50     0x13a9 _build/nrf52840_xxaa/nrf_atfifo.c.o
  .debug_info    0x00023ef9     0x122a _build/nrf52840_xxaa/nrf_atomic.c.o
  .debug_info    0x00025123     0x187d _build/nrf52840_xxaa/nrf_balloc.c.o
@@ -18943,8 +18943,8 @@ OUTPUT(_build/nrf52840_xxaa.out elf32-littlearm)
  .debug_abbrev  0x000032aa      0x326 _build/nrf52840_xxaa/app_util_platform.c.o
  .debug_abbrev  0x000035d0      0x2c7 _build/nrf52840_xxaa/app_usbd_serial_num.c.o
  .debug_abbrev  0x00003897      0x2c1 _build/nrf52840_xxaa/app_usbd_string_desc.c.o
- .debug_abbrev  0x00003b58      0x1b1 _build/nrf52840_xxaa/hardfault_handler_gcc.c.o
- .debug_abbrev  0x00003d09      0x2bd _build/nrf52840_xxaa/hardfault_implementation.c.o
+ .debug_abbrev  0x00003b58      0x2bd _build/nrf52840_xxaa/hardfault_implementation.c.o
+ .debug_abbrev  0x00003e15      0x1b1 _build/nrf52840_xxaa/hardfault_handler_gcc.c.o
  .debug_abbrev  0x00003fc6      0x33b _build/nrf52840_xxaa/nrf_atfifo.c.o
  .debug_abbrev  0x00004301      0x31f _build/nrf52840_xxaa/nrf_atomic.c.o
  .debug_abbrev  0x00004620      0x426 _build/nrf52840_xxaa/nrf_balloc.c.o
@@ -19036,9 +19036,9 @@ OUTPUT(_build/nrf52840_xxaa.out elf32-littlearm)
  .debug_aranges
                 0x00000660       0x20 _build/nrf52840_xxaa/app_usbd_string_desc.c.o
  .debug_aranges
-                0x00000680       0x20 _build/nrf52840_xxaa/hardfault_handler_gcc.c.o
+                0x00000680       0x28 _build/nrf52840_xxaa/hardfault_implementation.c.o
  .debug_aranges
-                0x000006a0       0x28 _build/nrf52840_xxaa/hardfault_implementation.c.o
+                0x000006a8       0x20 _build/nrf52840_xxaa/hardfault_handler_gcc.c.o
  .debug_aranges
                 0x000006c8       0x58 _build/nrf52840_xxaa/nrf_atfifo.c.o
  .debug_aranges
@@ -19182,10 +19182,10 @@ OUTPUT(_build/nrf52840_xxaa.out elf32-littlearm)
                               0x843d3 (size before relaxing)
  .debug_str     0x000965a0     0x1451 _build/nrf52840_xxaa/app_usbd_string_desc.c.o
                               0x84884 (size before relaxing)
- .debug_str     0x000979f1       0x66 _build/nrf52840_xxaa/hardfault_handler_gcc.c.o
-                              0x7c64a (size before relaxing)
- .debug_str     0x00097a57      0x190 _build/nrf52840_xxaa/hardfault_implementation.c.o
+ .debug_str     0x000979f1      0x190 _build/nrf52840_xxaa/hardfault_implementation.c.o
                               0x81698 (size before relaxing)
+ .debug_str     0x00097b81       0x66 _build/nrf52840_xxaa/hardfault_handler_gcc.c.o
+                              0x7c64a (size before relaxing)
  .debug_str     0x00097be7      0x147 _build/nrf52840_xxaa/nrf_atfifo.c.o
                               0x7f84d (size before relaxing)
  .debug_str     0x00097d2e      0x6a0 _build/nrf52840_xxaa/nrf_atomic.c.o
@@ -19382,8 +19382,8 @@ OUTPUT(_build/nrf52840_xxaa.out elf32-littlearm)
  .debug_ranges  0x000031d0       0x50 _build/nrf52840_xxaa/app_util_platform.c.o
  .debug_ranges  0x00003220       0x10 _build/nrf52840_xxaa/app_usbd_serial_num.c.o
  .debug_ranges  0x00003230       0x30 _build/nrf52840_xxaa/app_usbd_string_desc.c.o
- .debug_ranges  0x00003260       0x10 _build/nrf52840_xxaa/hardfault_handler_gcc.c.o
- .debug_ranges  0x00003270       0x30 _build/nrf52840_xxaa/hardfault_implementation.c.o
+ .debug_ranges  0x00003260       0x30 _build/nrf52840_xxaa/hardfault_implementation.c.o
+ .debug_ranges  0x00003290       0x10 _build/nrf52840_xxaa/hardfault_handler_gcc.c.o
  .debug_ranges  0x000032a0       0x78 _build/nrf52840_xxaa/nrf_atfifo.c.o
  .debug_ranges  0x00003318       0xb8 _build/nrf52840_xxaa/nrf_atomic.c.o
  .debug_ranges  0x000033d0       0x58 _build/nrf52840_xxaa/nrf_balloc.c.o
@@ -19544,8 +19544,8 @@ OUTPUT(_build/nrf52840_xxaa.out elf32-littlearm)
  .debug_macro   0x00005cb7       0x54 _build/nrf52840_xxaa/app_usbd_serial_num.c.o
  .debug_macro   0x00005d0b      0x3f3 _build/nrf52840_xxaa/app_usbd_string_desc.c.o
  .debug_macro   0x000060fe       0x2e _build/nrf52840_xxaa/app_usbd_string_desc.c.o
- .debug_macro   0x0000612c      0x204 _build/nrf52840_xxaa/hardfault_handler_gcc.c.o
- .debug_macro   0x00006330      0x37d _build/nrf52840_xxaa/hardfault_implementation.c.o
+ .debug_macro   0x0000612c      0x37d _build/nrf52840_xxaa/hardfault_implementation.c.o
+ .debug_macro   0x000064a9      0x204 _build/nrf52840_xxaa/hardfault_handler_gcc.c.o
  .debug_macro   0x000066ad      0x288 _build/nrf52840_xxaa/nrf_atfifo.c.o
  .debug_macro   0x00006935      0x223 _build/nrf52840_xxaa/nrf_atomic.c.o
  .debug_macro   0x00006b58       0x42 _build/nrf52840_xxaa/nrf_atomic.c.o
@@ -19611,8 +19611,8 @@ OUTPUT(_build/nrf52840_xxaa.out elf32-littlearm)
  .debug_frame   0x00001328       0x70 _build/nrf52840_xxaa/app_util_platform.c.o
  .debug_frame   0x00001398       0x34 _build/nrf52840_xxaa/app_usbd_serial_num.c.o
  .debug_frame   0x000013cc       0x40 _build/nrf52840_xxaa/app_usbd_string_desc.c.o
- .debug_frame   0x0000140c       0x20 _build/nrf52840_xxaa/hardfault_handler_gcc.c.o
- .debug_frame   0x0000142c       0x58 _build/nrf52840_xxaa/hardfault_implementation.c.o
+ .debug_frame   0x0000140c       0x58 _build/nrf52840_xxaa/hardfault_implementation.c.o
+ .debug_frame   0x00001464       0x20 _build/nrf52840_xxaa/hardfault_handler_gcc.c.o
  .debug_frame   0x00001484      0x124 _build/nrf52840_xxaa/nrf_atfifo.c.o
  .debug_frame   0x000015a8      0x150 _build/nrf52840_xxaa/nrf_atomic.c.o
  .debug_frame   0x000016f8       0xb4 _build/nrf52840_xxaa/nrf_balloc.c.o
