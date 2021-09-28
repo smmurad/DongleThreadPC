@@ -32,6 +32,7 @@ SRC_FILES += \
   $(SDK_ROOT)/components/libraries/usbd/app_usbd_serial_num.c \
   $(SDK_ROOT)/components/libraries/usbd/app_usbd_string_desc.c \
   $(SDK_ROOT)/components/libraries/util/app_util_platform.c \
+  $(SDK_ROOT)/components/libraries/assert/assert.c \
   $(SDK_ROOT)/external/fnmatch/fnmatch.c \
   $(SDK_ROOT)/components/libraries/hardfault/nrf52/handler/hardfault_handler_gcc.c \
   $(SDK_ROOT)/components/libraries/hardfault/hardfault_implementation.c \
@@ -54,6 +55,7 @@ SRC_FILES += \
   $(SDK_ROOT)/integration/nrfx/legacy/nrf_drv_uart.c \
   $(SDK_ROOT)/components/drivers_nrf/usbd/nrf_drv_usbd.c \
   $(SDK_ROOT)/components/drivers_nrf/nrf_soc_nosd/nrf_nvic.c \
+  $(SDK_ROOT)/modules/nrfx/hal/nrf_nvmc.c \
   $(SDK_ROOT)/components/drivers_nrf/nrf_soc_nosd/nrf_soc.c \
   $(SDK_ROOT)/modules/nrfx/drivers/src/nrfx_clock.c \
   $(SDK_ROOT)/modules/nrfx/drivers/src/nrfx_gpiote.c \
@@ -63,6 +65,7 @@ SRC_FILES += \
   $(SDK_ROOT)/modules/nrfx/drivers/src/nrfx_uart.c \
   $(SDK_ROOT)/modules/nrfx/drivers/src/nrfx_uarte.c \
   $(SDK_ROOT)/components/libraries/bsp/bsp.c \
+  $(SDK_ROOT)/components/libraries/bsp/bsp_thread.c \
   $(SDK_ROOT)/components/libraries/bsp/bsp_cli.c \
   $(PROJ_DIR)/main.c \
   $(SDK_ROOT)/external/segger_rtt/SEGGER_RTT.c \
@@ -117,9 +120,16 @@ INC_FOLDERS += \
   $(SDK_ROOT)/modules/nrfx/hal \
   $(SDK_ROOT)/external/fprintf \
   $(SDK_ROOT)/components/libraries/log/src \
+  $(SDK_ROOT)/external/openthread/include \
 
 # Libraries common to all targets
 LIB_FILES += \
+  $(SDK_ROOT)/external/openthread/lib/gcc/libopenthread-ncp-ftd.a \
+  $(SDK_ROOT)/external/openthread/lib/gcc/libopenthread-diag.a \
+  $(SDK_ROOT)/external/openthread/lib/gcc/libopenthread-ftd.a \
+  $(SDK_ROOT)/external/openthread/lib/gcc/libopenthread-platform-utils.a \
+  $(SDK_ROOT)/external/openthread/lib/gcc/libmbedcrypto-software.a \
+  $(SDK_ROOT)/external/openthread/lib/gcc/libopenthread-nrf52840-sdk-usb.a \
 
 # Optimization flags
 OPT = -O3 -g3
@@ -133,6 +143,7 @@ CFLAGS += -DCONFIG_GPIO_AS_PINRESET
 CFLAGS += -DFLOAT_ABI_HARD
 CFLAGS += -DNRF52840_XXAA
 CFLAGS += -DSWI_DISABLE0
+CFLAGS += -DUSBD_POWER_DETECTION=1
 CFLAGS += -mcpu=cortex-m4
 CFLAGS += -mthumb -mabi=aapcs
 CFLAGS += -Wall -Werror
@@ -154,6 +165,7 @@ ASMFLAGS += -DCONFIG_GPIO_AS_PINRESET
 ASMFLAGS += -DFLOAT_ABI_HARD
 ASMFLAGS += -DNRF52840_XXAA
 ASMFLAGS += -DSWI_DISABLE0
+ASMFLAGS += -DUSBD_POWER_DETECTION=1
 
 # Linker flags
 LDFLAGS += $(OPT)
