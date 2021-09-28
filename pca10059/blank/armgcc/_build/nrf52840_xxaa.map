@@ -6120,6 +6120,141 @@ Discarded input sections
  .debug_macro   0x00000000       0x55 _build/nrf52840_xxaa/nrfx_clock.c.o
  .debug_macro   0x00000000      0x178 _build/nrf52840_xxaa/nrfx_clock.c.o
  .debug_macro   0x00000000       0x9a _build/nrf52840_xxaa/nrfx_clock.c.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/nrfx_power.c.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/nrfx_power.c.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/nrfx_power.c.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/nrfx_power.c.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/nrfx_power.c.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/nrfx_power.c.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/nrfx_power.c.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/nrfx_power.c.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/nrfx_power.c.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/nrfx_power.c.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/nrfx_power.c.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/nrfx_power.c.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/nrfx_power.c.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/nrfx_power.c.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/nrfx_power.c.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/nrfx_power.c.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/nrfx_power.c.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/nrfx_power.c.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/nrfx_power.c.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/nrfx_power.c.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/nrfx_power.c.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/nrfx_power.c.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/nrfx_power.c.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/nrfx_power.c.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/nrfx_power.c.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/nrfx_power.c.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/nrfx_power.c.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/nrfx_power.c.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/nrfx_power.c.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/nrfx_power.c.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/nrfx_power.c.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/nrfx_power.c.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/nrfx_power.c.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/nrfx_power.c.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/nrfx_power.c.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/nrfx_power.c.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/nrfx_power.c.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/nrfx_power.c.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/nrfx_power.c.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/nrfx_power.c.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/nrfx_power.c.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/nrfx_power.c.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/nrfx_power.c.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/nrfx_power.c.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/nrfx_power.c.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/nrfx_power.c.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/nrfx_power.c.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/nrfx_power.c.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/nrfx_power.c.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/nrfx_power.c.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/nrfx_power.c.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/nrfx_power.c.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/nrfx_power.c.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/nrfx_power.c.o
+ .group         0x00000000        0xc _build/nrf52840_xxaa/nrfx_power.c.o
+ .text          0x00000000        0x0 _build/nrf52840_xxaa/nrfx_power.c.o
+ .data          0x00000000        0x0 _build/nrf52840_xxaa/nrfx_power.c.o
+ .bss           0x00000000        0x0 _build/nrf52840_xxaa/nrfx_power.c.o
+ .text.nrfx_power_pof_handler_get
+                0x00000000        0xc _build/nrf52840_xxaa/nrfx_power.c.o
+ .text.nrfx_power_usb_handler_get
+                0x00000000        0xc _build/nrf52840_xxaa/nrfx_power.c.o
+ .text.nrfx_power_uninit
+                0x00000000       0x40 _build/nrf52840_xxaa/nrfx_power.c.o
+ .text.nrfx_power_pof_init
+                0x00000000       0x14 _build/nrf52840_xxaa/nrfx_power.c.o
+ .text.nrfx_power_pof_enable
+                0x00000000       0x44 _build/nrf52840_xxaa/nrfx_power.c.o
+ .text.nrfx_power_pof_disable
+                0x00000000        0xc _build/nrf52840_xxaa/nrfx_power.c.o
+ .text.nrfx_power_pof_uninit
+                0x00000000        0xc _build/nrf52840_xxaa/nrfx_power.c.o
+ .text.nrfx_power_sleepevt_init
+                0x00000000       0x14 _build/nrf52840_xxaa/nrfx_power.c.o
+ .text.nrfx_power_sleepevt_enable
+                0x00000000       0x38 _build/nrf52840_xxaa/nrfx_power.c.o
+ .text.nrfx_power_sleepevt_disable
+                0x00000000        0xc _build/nrf52840_xxaa/nrfx_power.c.o
+ .text.nrfx_power_sleepevt_uninit
+                0x00000000        0xc _build/nrf52840_xxaa/nrfx_power.c.o
+ .debug_macro   0x00000000      0xa72 _build/nrf52840_xxaa/nrfx_power.c.o
+ .debug_macro   0x00000000      0xb00 _build/nrf52840_xxaa/nrfx_power.c.o
+ .debug_macro   0x00000000       0x22 _build/nrf52840_xxaa/nrfx_power.c.o
+ .debug_macro   0x00000000       0x56 _build/nrf52840_xxaa/nrfx_power.c.o
+ .debug_macro   0x00000000       0x51 _build/nrf52840_xxaa/nrfx_power.c.o
+ .debug_macro   0x00000000       0xef _build/nrf52840_xxaa/nrfx_power.c.o
+ .debug_macro   0x00000000       0x6a _build/nrf52840_xxaa/nrfx_power.c.o
+ .debug_macro   0x00000000      0x1df _build/nrf52840_xxaa/nrfx_power.c.o
+ .debug_macro   0x00000000      0x16d _build/nrf52840_xxaa/nrfx_power.c.o
+ .debug_macro   0x00000000       0x22 _build/nrf52840_xxaa/nrfx_power.c.o
+ .debug_macro   0x00000000       0x22 _build/nrf52840_xxaa/nrfx_power.c.o
+ .debug_macro   0x00000000       0x2d _build/nrf52840_xxaa/nrfx_power.c.o
+ .debug_macro   0x00000000       0x3b _build/nrf52840_xxaa/nrfx_power.c.o
+ .debug_macro   0x00000000       0x50 _build/nrf52840_xxaa/nrfx_power.c.o
+ .debug_macro   0x00000000      0xe66 _build/nrf52840_xxaa/nrfx_power.c.o
+ .debug_macro   0x00000000      0x402 _build/nrf52840_xxaa/nrfx_power.c.o
+ .debug_macro   0x00000000     0xfe8b _build/nrf52840_xxaa/nrfx_power.c.o
+ .debug_macro   0x00000000      0xa4c _build/nrf52840_xxaa/nrfx_power.c.o
+ .debug_macro   0x00000000       0xb2 _build/nrf52840_xxaa/nrfx_power.c.o
+ .debug_macro   0x00000000       0x22 _build/nrf52840_xxaa/nrfx_power.c.o
+ .debug_macro   0x00000000      0x419 _build/nrf52840_xxaa/nrfx_power.c.o
+ .debug_macro   0x00000000       0x3d _build/nrf52840_xxaa/nrfx_power.c.o
+ .debug_macro   0x00000000      0x241 _build/nrf52840_xxaa/nrfx_power.c.o
+ .debug_macro   0x00000000      0x13b _build/nrf52840_xxaa/nrfx_power.c.o
+ .debug_macro   0x00000000       0x16 _build/nrf52840_xxaa/nrfx_power.c.o
+ .debug_macro   0x00000000      0x16d _build/nrf52840_xxaa/nrfx_power.c.o
+ .debug_macro   0x00000000      0x7ae _build/nrf52840_xxaa/nrfx_power.c.o
+ .debug_macro   0x00000000       0x3f _build/nrf52840_xxaa/nrfx_power.c.o
+ .debug_macro   0x00000000       0x5e _build/nrf52840_xxaa/nrfx_power.c.o
+ .debug_macro   0x00000000       0x18 _build/nrf52840_xxaa/nrfx_power.c.o
+ .debug_macro   0x00000000       0x35 _build/nrf52840_xxaa/nrfx_power.c.o
+ .debug_macro   0x00000000       0x34 _build/nrf52840_xxaa/nrfx_power.c.o
+ .debug_macro   0x00000000       0x16 _build/nrf52840_xxaa/nrfx_power.c.o
+ .debug_macro   0x00000000       0x35 _build/nrf52840_xxaa/nrfx_power.c.o
+ .debug_macro   0x00000000      0x353 _build/nrf52840_xxaa/nrfx_power.c.o
+ .debug_macro   0x00000000       0x10 _build/nrf52840_xxaa/nrfx_power.c.o
+ .debug_macro   0x00000000       0x58 _build/nrf52840_xxaa/nrfx_power.c.o
+ .debug_macro   0x00000000       0x1f _build/nrf52840_xxaa/nrfx_power.c.o
+ .debug_macro   0x00000000       0x43 _build/nrf52840_xxaa/nrfx_power.c.o
+ .debug_macro   0x00000000       0x20 _build/nrf52840_xxaa/nrfx_power.c.o
+ .debug_macro   0x00000000      0x18e _build/nrf52840_xxaa/nrfx_power.c.o
+ .debug_macro   0x00000000       0x10 _build/nrf52840_xxaa/nrfx_power.c.o
+ .debug_macro   0x00000000       0xb6 _build/nrf52840_xxaa/nrfx_power.c.o
+ .debug_macro   0x00000000       0x16 _build/nrf52840_xxaa/nrfx_power.c.o
+ .debug_macro   0x00000000      0x129 _build/nrf52840_xxaa/nrfx_power.c.o
+ .debug_macro   0x00000000       0x8e _build/nrf52840_xxaa/nrfx_power.c.o
+ .debug_macro   0x00000000       0xa7 _build/nrf52840_xxaa/nrfx_power.c.o
+ .debug_macro   0x00000000       0x49 _build/nrf52840_xxaa/nrfx_power.c.o
+ .debug_macro   0x00000000       0x8c _build/nrf52840_xxaa/nrfx_power.c.o
+ .debug_macro   0x00000000       0x19 _build/nrf52840_xxaa/nrfx_power.c.o
+ .debug_macro   0x00000000       0x16 _build/nrf52840_xxaa/nrfx_power.c.o
+ .debug_macro   0x00000000       0x7b _build/nrf52840_xxaa/nrfx_power.c.o
+ .debug_macro   0x00000000       0x64 _build/nrf52840_xxaa/nrfx_power.c.o
+ .debug_macro   0x00000000       0x20 _build/nrf52840_xxaa/nrfx_power.c.o
+ .debug_macro   0x00000000       0x28 _build/nrf52840_xxaa/nrfx_power.c.o
  .group         0x00000000        0xc _build/nrf52840_xxaa/nrfx_gpiote.c.o
  .group         0x00000000        0xc _build/nrf52840_xxaa/nrfx_gpiote.c.o
  .group         0x00000000        0xc _build/nrf52840_xxaa/nrfx_gpiote.c.o
@@ -6293,141 +6428,6 @@ Discarded input sections
  .debug_macro   0x00000000      0x178 _build/nrf52840_xxaa/nrfx_gpiote.c.o
  .debug_macro   0x00000000       0x9a _build/nrf52840_xxaa/nrfx_gpiote.c.o
  .debug_macro   0x00000000       0x42 _build/nrf52840_xxaa/nrfx_gpiote.c.o
- .group         0x00000000        0xc _build/nrf52840_xxaa/nrfx_power.c.o
- .group         0x00000000        0xc _build/nrf52840_xxaa/nrfx_power.c.o
- .group         0x00000000        0xc _build/nrf52840_xxaa/nrfx_power.c.o
- .group         0x00000000        0xc _build/nrf52840_xxaa/nrfx_power.c.o
- .group         0x00000000        0xc _build/nrf52840_xxaa/nrfx_power.c.o
- .group         0x00000000        0xc _build/nrf52840_xxaa/nrfx_power.c.o
- .group         0x00000000        0xc _build/nrf52840_xxaa/nrfx_power.c.o
- .group         0x00000000        0xc _build/nrf52840_xxaa/nrfx_power.c.o
- .group         0x00000000        0xc _build/nrf52840_xxaa/nrfx_power.c.o
- .group         0x00000000        0xc _build/nrf52840_xxaa/nrfx_power.c.o
- .group         0x00000000        0xc _build/nrf52840_xxaa/nrfx_power.c.o
- .group         0x00000000        0xc _build/nrf52840_xxaa/nrfx_power.c.o
- .group         0x00000000        0xc _build/nrf52840_xxaa/nrfx_power.c.o
- .group         0x00000000        0xc _build/nrf52840_xxaa/nrfx_power.c.o
- .group         0x00000000        0xc _build/nrf52840_xxaa/nrfx_power.c.o
- .group         0x00000000        0xc _build/nrf52840_xxaa/nrfx_power.c.o
- .group         0x00000000        0xc _build/nrf52840_xxaa/nrfx_power.c.o
- .group         0x00000000        0xc _build/nrf52840_xxaa/nrfx_power.c.o
- .group         0x00000000        0xc _build/nrf52840_xxaa/nrfx_power.c.o
- .group         0x00000000        0xc _build/nrf52840_xxaa/nrfx_power.c.o
- .group         0x00000000        0xc _build/nrf52840_xxaa/nrfx_power.c.o
- .group         0x00000000        0xc _build/nrf52840_xxaa/nrfx_power.c.o
- .group         0x00000000        0xc _build/nrf52840_xxaa/nrfx_power.c.o
- .group         0x00000000        0xc _build/nrf52840_xxaa/nrfx_power.c.o
- .group         0x00000000        0xc _build/nrf52840_xxaa/nrfx_power.c.o
- .group         0x00000000        0xc _build/nrf52840_xxaa/nrfx_power.c.o
- .group         0x00000000        0xc _build/nrf52840_xxaa/nrfx_power.c.o
- .group         0x00000000        0xc _build/nrf52840_xxaa/nrfx_power.c.o
- .group         0x00000000        0xc _build/nrf52840_xxaa/nrfx_power.c.o
- .group         0x00000000        0xc _build/nrf52840_xxaa/nrfx_power.c.o
- .group         0x00000000        0xc _build/nrf52840_xxaa/nrfx_power.c.o
- .group         0x00000000        0xc _build/nrf52840_xxaa/nrfx_power.c.o
- .group         0x00000000        0xc _build/nrf52840_xxaa/nrfx_power.c.o
- .group         0x00000000        0xc _build/nrf52840_xxaa/nrfx_power.c.o
- .group         0x00000000        0xc _build/nrf52840_xxaa/nrfx_power.c.o
- .group         0x00000000        0xc _build/nrf52840_xxaa/nrfx_power.c.o
- .group         0x00000000        0xc _build/nrf52840_xxaa/nrfx_power.c.o
- .group         0x00000000        0xc _build/nrf52840_xxaa/nrfx_power.c.o
- .group         0x00000000        0xc _build/nrf52840_xxaa/nrfx_power.c.o
- .group         0x00000000        0xc _build/nrf52840_xxaa/nrfx_power.c.o
- .group         0x00000000        0xc _build/nrf52840_xxaa/nrfx_power.c.o
- .group         0x00000000        0xc _build/nrf52840_xxaa/nrfx_power.c.o
- .group         0x00000000        0xc _build/nrf52840_xxaa/nrfx_power.c.o
- .group         0x00000000        0xc _build/nrf52840_xxaa/nrfx_power.c.o
- .group         0x00000000        0xc _build/nrf52840_xxaa/nrfx_power.c.o
- .group         0x00000000        0xc _build/nrf52840_xxaa/nrfx_power.c.o
- .group         0x00000000        0xc _build/nrf52840_xxaa/nrfx_power.c.o
- .group         0x00000000        0xc _build/nrf52840_xxaa/nrfx_power.c.o
- .group         0x00000000        0xc _build/nrf52840_xxaa/nrfx_power.c.o
- .group         0x00000000        0xc _build/nrf52840_xxaa/nrfx_power.c.o
- .group         0x00000000        0xc _build/nrf52840_xxaa/nrfx_power.c.o
- .group         0x00000000        0xc _build/nrf52840_xxaa/nrfx_power.c.o
- .group         0x00000000        0xc _build/nrf52840_xxaa/nrfx_power.c.o
- .group         0x00000000        0xc _build/nrf52840_xxaa/nrfx_power.c.o
- .group         0x00000000        0xc _build/nrf52840_xxaa/nrfx_power.c.o
- .text          0x00000000        0x0 _build/nrf52840_xxaa/nrfx_power.c.o
- .data          0x00000000        0x0 _build/nrf52840_xxaa/nrfx_power.c.o
- .bss           0x00000000        0x0 _build/nrf52840_xxaa/nrfx_power.c.o
- .text.nrfx_power_pof_handler_get
-                0x00000000        0xc _build/nrf52840_xxaa/nrfx_power.c.o
- .text.nrfx_power_usb_handler_get
-                0x00000000        0xc _build/nrf52840_xxaa/nrfx_power.c.o
- .text.nrfx_power_uninit
-                0x00000000       0x40 _build/nrf52840_xxaa/nrfx_power.c.o
- .text.nrfx_power_pof_init
-                0x00000000       0x14 _build/nrf52840_xxaa/nrfx_power.c.o
- .text.nrfx_power_pof_enable
-                0x00000000       0x44 _build/nrf52840_xxaa/nrfx_power.c.o
- .text.nrfx_power_pof_disable
-                0x00000000        0xc _build/nrf52840_xxaa/nrfx_power.c.o
- .text.nrfx_power_pof_uninit
-                0x00000000        0xc _build/nrf52840_xxaa/nrfx_power.c.o
- .text.nrfx_power_sleepevt_init
-                0x00000000       0x14 _build/nrf52840_xxaa/nrfx_power.c.o
- .text.nrfx_power_sleepevt_enable
-                0x00000000       0x38 _build/nrf52840_xxaa/nrfx_power.c.o
- .text.nrfx_power_sleepevt_disable
-                0x00000000        0xc _build/nrf52840_xxaa/nrfx_power.c.o
- .text.nrfx_power_sleepevt_uninit
-                0x00000000        0xc _build/nrf52840_xxaa/nrfx_power.c.o
- .debug_macro   0x00000000      0xa72 _build/nrf52840_xxaa/nrfx_power.c.o
- .debug_macro   0x00000000      0xb00 _build/nrf52840_xxaa/nrfx_power.c.o
- .debug_macro   0x00000000       0x22 _build/nrf52840_xxaa/nrfx_power.c.o
- .debug_macro   0x00000000       0x56 _build/nrf52840_xxaa/nrfx_power.c.o
- .debug_macro   0x00000000       0x51 _build/nrf52840_xxaa/nrfx_power.c.o
- .debug_macro   0x00000000       0xef _build/nrf52840_xxaa/nrfx_power.c.o
- .debug_macro   0x00000000       0x6a _build/nrf52840_xxaa/nrfx_power.c.o
- .debug_macro   0x00000000      0x1df _build/nrf52840_xxaa/nrfx_power.c.o
- .debug_macro   0x00000000      0x16d _build/nrf52840_xxaa/nrfx_power.c.o
- .debug_macro   0x00000000       0x22 _build/nrf52840_xxaa/nrfx_power.c.o
- .debug_macro   0x00000000       0x22 _build/nrf52840_xxaa/nrfx_power.c.o
- .debug_macro   0x00000000       0x2d _build/nrf52840_xxaa/nrfx_power.c.o
- .debug_macro   0x00000000       0x3b _build/nrf52840_xxaa/nrfx_power.c.o
- .debug_macro   0x00000000       0x50 _build/nrf52840_xxaa/nrfx_power.c.o
- .debug_macro   0x00000000      0xe66 _build/nrf52840_xxaa/nrfx_power.c.o
- .debug_macro   0x00000000      0x402 _build/nrf52840_xxaa/nrfx_power.c.o
- .debug_macro   0x00000000     0xfe8b _build/nrf52840_xxaa/nrfx_power.c.o
- .debug_macro   0x00000000      0xa4c _build/nrf52840_xxaa/nrfx_power.c.o
- .debug_macro   0x00000000       0xb2 _build/nrf52840_xxaa/nrfx_power.c.o
- .debug_macro   0x00000000       0x22 _build/nrf52840_xxaa/nrfx_power.c.o
- .debug_macro   0x00000000      0x419 _build/nrf52840_xxaa/nrfx_power.c.o
- .debug_macro   0x00000000       0x3d _build/nrf52840_xxaa/nrfx_power.c.o
- .debug_macro   0x00000000      0x241 _build/nrf52840_xxaa/nrfx_power.c.o
- .debug_macro   0x00000000      0x13b _build/nrf52840_xxaa/nrfx_power.c.o
- .debug_macro   0x00000000       0x16 _build/nrf52840_xxaa/nrfx_power.c.o
- .debug_macro   0x00000000      0x16d _build/nrf52840_xxaa/nrfx_power.c.o
- .debug_macro   0x00000000      0x7ae _build/nrf52840_xxaa/nrfx_power.c.o
- .debug_macro   0x00000000       0x3f _build/nrf52840_xxaa/nrfx_power.c.o
- .debug_macro   0x00000000       0x5e _build/nrf52840_xxaa/nrfx_power.c.o
- .debug_macro   0x00000000       0x18 _build/nrf52840_xxaa/nrfx_power.c.o
- .debug_macro   0x00000000       0x35 _build/nrf52840_xxaa/nrfx_power.c.o
- .debug_macro   0x00000000       0x34 _build/nrf52840_xxaa/nrfx_power.c.o
- .debug_macro   0x00000000       0x16 _build/nrf52840_xxaa/nrfx_power.c.o
- .debug_macro   0x00000000       0x35 _build/nrf52840_xxaa/nrfx_power.c.o
- .debug_macro   0x00000000      0x353 _build/nrf52840_xxaa/nrfx_power.c.o
- .debug_macro   0x00000000       0x10 _build/nrf52840_xxaa/nrfx_power.c.o
- .debug_macro   0x00000000       0x58 _build/nrf52840_xxaa/nrfx_power.c.o
- .debug_macro   0x00000000       0x1f _build/nrf52840_xxaa/nrfx_power.c.o
- .debug_macro   0x00000000       0x43 _build/nrf52840_xxaa/nrfx_power.c.o
- .debug_macro   0x00000000       0x20 _build/nrf52840_xxaa/nrfx_power.c.o
- .debug_macro   0x00000000      0x18e _build/nrf52840_xxaa/nrfx_power.c.o
- .debug_macro   0x00000000       0x10 _build/nrf52840_xxaa/nrfx_power.c.o
- .debug_macro   0x00000000       0xb6 _build/nrf52840_xxaa/nrfx_power.c.o
- .debug_macro   0x00000000       0x16 _build/nrf52840_xxaa/nrfx_power.c.o
- .debug_macro   0x00000000      0x129 _build/nrf52840_xxaa/nrfx_power.c.o
- .debug_macro   0x00000000       0x8e _build/nrf52840_xxaa/nrfx_power.c.o
- .debug_macro   0x00000000       0xa7 _build/nrf52840_xxaa/nrfx_power.c.o
- .debug_macro   0x00000000       0x49 _build/nrf52840_xxaa/nrfx_power.c.o
- .debug_macro   0x00000000       0x8c _build/nrf52840_xxaa/nrfx_power.c.o
- .debug_macro   0x00000000       0x19 _build/nrf52840_xxaa/nrfx_power.c.o
- .debug_macro   0x00000000       0x16 _build/nrf52840_xxaa/nrfx_power.c.o
- .debug_macro   0x00000000       0x7b _build/nrf52840_xxaa/nrfx_power.c.o
- .debug_macro   0x00000000       0x64 _build/nrf52840_xxaa/nrfx_power.c.o
- .debug_macro   0x00000000       0x20 _build/nrf52840_xxaa/nrfx_power.c.o
- .debug_macro   0x00000000       0x28 _build/nrf52840_xxaa/nrfx_power.c.o
  .group         0x00000000        0xc _build/nrf52840_xxaa/nrfx_power_clock.c.o
  .group         0x00000000        0xc _build/nrf52840_xxaa/nrfx_power_clock.c.o
  .group         0x00000000        0xc _build/nrf52840_xxaa/nrfx_power_clock.c.o
@@ -16073,42 +16073,42 @@ Linker script and memory map
  .text.nrfx_clock_irq_handler
                 0x0000cdcc       0x64 _build/nrf52840_xxaa/nrfx_clock.c.o
                 0x0000cdcc                nrfx_clock_irq_handler
- .text.nrfx_gpiote_init
-                0x0000ce30       0x98 _build/nrf52840_xxaa/nrfx_gpiote.c.o
-                0x0000ce30                nrfx_gpiote_init
- .text.nrfx_gpiote_is_init
-                0x0000cec8       0x14 _build/nrf52840_xxaa/nrfx_gpiote.c.o
-                0x0000cec8                nrfx_gpiote_is_init
- .text.nrfx_gpiote_in_init
-                0x0000cedc      0x1e0 _build/nrf52840_xxaa/nrfx_gpiote.c.o
-                0x0000cedc                nrfx_gpiote_in_init
- .text.nrfx_gpiote_in_event_enable
-                0x0000d0bc       0xf8 _build/nrf52840_xxaa/nrfx_gpiote.c.o
-                0x0000d0bc                nrfx_gpiote_in_event_enable
- .text.nrfx_gpiote_in_is_set
-                0x0000d1b4       0x20 _build/nrf52840_xxaa/nrfx_gpiote.c.o
-                0x0000d1b4                nrfx_gpiote_in_is_set
- .text.GPIOTE_IRQHandler
-                0x0000d1d4      0x568 _build/nrf52840_xxaa/nrfx_gpiote.c.o
-                0x0000d1d4                GPIOTE_IRQHandler
  .text.nrfx_power_init
-                0x0000d73c       0x50 _build/nrf52840_xxaa/nrfx_power.c.o
-                0x0000d73c                nrfx_power_init
+                0x0000ce30       0x50 _build/nrf52840_xxaa/nrfx_power.c.o
+                0x0000ce30                nrfx_power_init
  .text.nrfx_power_usbevt_init
-                0x0000d78c       0x14 _build/nrf52840_xxaa/nrfx_power.c.o
-                0x0000d78c                nrfx_power_usbevt_init
+                0x0000ce80       0x14 _build/nrf52840_xxaa/nrfx_power.c.o
+                0x0000ce80                nrfx_power_usbevt_init
  .text.nrfx_power_usbevt_enable
-                0x0000d7a0       0x10 _build/nrf52840_xxaa/nrfx_power.c.o
-                0x0000d7a0                nrfx_power_usbevt_enable
+                0x0000ce94       0x10 _build/nrf52840_xxaa/nrfx_power.c.o
+                0x0000ce94                nrfx_power_usbevt_enable
  .text.nrfx_power_usbevt_disable
-                0x0000d7b0       0x10 _build/nrf52840_xxaa/nrfx_power.c.o
-                0x0000d7b0                nrfx_power_usbevt_disable
+                0x0000cea4       0x10 _build/nrf52840_xxaa/nrfx_power.c.o
+                0x0000cea4                nrfx_power_usbevt_disable
  .text.nrfx_power_usbevt_uninit
-                0x0000d7c0        0xc _build/nrf52840_xxaa/nrfx_power.c.o
-                0x0000d7c0                nrfx_power_usbevt_uninit
+                0x0000ceb4        0xc _build/nrf52840_xxaa/nrfx_power.c.o
+                0x0000ceb4                nrfx_power_usbevt_uninit
  .text.nrfx_power_irq_handler
-                0x0000d7cc       0xc0 _build/nrf52840_xxaa/nrfx_power.c.o
-                0x0000d7cc                nrfx_power_irq_handler
+                0x0000cec0       0xc0 _build/nrf52840_xxaa/nrfx_power.c.o
+                0x0000cec0                nrfx_power_irq_handler
+ .text.nrfx_gpiote_init
+                0x0000cf80       0x98 _build/nrf52840_xxaa/nrfx_gpiote.c.o
+                0x0000cf80                nrfx_gpiote_init
+ .text.nrfx_gpiote_is_init
+                0x0000d018       0x14 _build/nrf52840_xxaa/nrfx_gpiote.c.o
+                0x0000d018                nrfx_gpiote_is_init
+ .text.nrfx_gpiote_in_init
+                0x0000d02c      0x1e0 _build/nrf52840_xxaa/nrfx_gpiote.c.o
+                0x0000d02c                nrfx_gpiote_in_init
+ .text.nrfx_gpiote_in_event_enable
+                0x0000d20c       0xf8 _build/nrf52840_xxaa/nrfx_gpiote.c.o
+                0x0000d20c                nrfx_gpiote_in_event_enable
+ .text.nrfx_gpiote_in_is_set
+                0x0000d304       0x20 _build/nrf52840_xxaa/nrfx_gpiote.c.o
+                0x0000d304                nrfx_gpiote_in_is_set
+ .text.GPIOTE_IRQHandler
+                0x0000d324      0x568 _build/nrf52840_xxaa/nrfx_gpiote.c.o
+                0x0000d324                GPIOTE_IRQHandler
  .text.POWER_CLOCK_IRQHandler
                 0x0000d88c       0x10 _build/nrf52840_xxaa/nrfx_power_clock.c.o
                 0x0000d88c                POWER_CLOCK_IRQHandler
@@ -17804,8 +17804,8 @@ LOAD _build/nrf52840_xxaa/nrf_nvic.c.o
 LOAD _build/nrf52840_xxaa/nrf_nvmc.c.o
 LOAD _build/nrf52840_xxaa/nrf_soc.c.o
 LOAD _build/nrf52840_xxaa/nrfx_clock.c.o
-LOAD _build/nrf52840_xxaa/nrfx_gpiote.c.o
 LOAD _build/nrf52840_xxaa/nrfx_power.c.o
+LOAD _build/nrf52840_xxaa/nrfx_gpiote.c.o
 LOAD _build/nrf52840_xxaa/nrfx_power_clock.c.o
 LOAD _build/nrf52840_xxaa/nrfx_prs.c.o
 LOAD _build/nrf52840_xxaa/nrfx_uart.c.o
@@ -18139,13 +18139,13 @@ END GROUP
                 0x20000e0c       0x40 _build/nrf52840_xxaa/nrf_drv_usbd.c.o
  .bss.m_clock_cb
                 0x20000e4c        0x8 _build/nrf52840_xxaa/nrfx_clock.c.o
- .bss.m_cb      0x20000e54       0x6c _build/nrf52840_xxaa/nrfx_gpiote.c.o
  .bss.m_pofwarn_handler
-                0x20000ec0        0x4 _build/nrf52840_xxaa/nrfx_power.c.o
+                0x20000e54        0x4 _build/nrf52840_xxaa/nrfx_power.c.o
  .bss.m_sleepevt_handler
-                0x20000ec4        0x4 _build/nrf52840_xxaa/nrfx_power.c.o
+                0x20000e58        0x4 _build/nrf52840_xxaa/nrfx_power.c.o
  .bss.m_usbevt_handler
-                0x20000ec8        0x4 _build/nrf52840_xxaa/nrfx_power.c.o
+                0x20000e5c        0x4 _build/nrf52840_xxaa/nrfx_power.c.o
+ .bss.m_cb      0x20000e60       0x6c _build/nrf52840_xxaa/nrfx_gpiote.c.o
  .bss.m_prs_box_4
                 0x20000ecc        0x8 _build/nrf52840_xxaa/nrfx_prs.c.o
  .bss.m_cb      0x20000ed4       0x2c _build/nrf52840_xxaa/nrfx_uart.c.o
@@ -18481,9 +18481,9 @@ OUTPUT(_build/nrf52840_xxaa.out elf32-littlearm)
  .ARM.attributes
                 0x000007ef       0x39 _build/nrf52840_xxaa/nrfx_clock.c.o
  .ARM.attributes
-                0x00000828       0x39 _build/nrf52840_xxaa/nrfx_gpiote.c.o
+                0x00000828       0x39 _build/nrf52840_xxaa/nrfx_power.c.o
  .ARM.attributes
-                0x00000861       0x39 _build/nrf52840_xxaa/nrfx_power.c.o
+                0x00000861       0x39 _build/nrf52840_xxaa/nrfx_gpiote.c.o
  .ARM.attributes
                 0x0000089a       0x39 _build/nrf52840_xxaa/nrfx_power_clock.c.o
  .ARM.attributes
@@ -18735,8 +18735,8 @@ OUTPUT(_build/nrf52840_xxaa.out elf32-littlearm)
  .comment       0x0000007f       0x80 _build/nrf52840_xxaa/nrf_drv_uart.c.o
  .comment       0x0000007f       0x80 _build/nrf52840_xxaa/nrf_drv_usbd.c.o
  .comment       0x0000007f       0x80 _build/nrf52840_xxaa/nrfx_clock.c.o
- .comment       0x0000007f       0x80 _build/nrf52840_xxaa/nrfx_gpiote.c.o
  .comment       0x0000007f       0x80 _build/nrf52840_xxaa/nrfx_power.c.o
+ .comment       0x0000007f       0x80 _build/nrf52840_xxaa/nrfx_gpiote.c.o
  .comment       0x0000007f       0x80 _build/nrf52840_xxaa/nrfx_power_clock.c.o
  .comment       0x0000007f       0x80 _build/nrf52840_xxaa/nrfx_prs.c.o
  .comment       0x0000007f       0x80 _build/nrf52840_xxaa/nrfx_uart.c.o
@@ -18811,8 +18811,8 @@ OUTPUT(_build/nrf52840_xxaa.out elf32-littlearm)
  .debug_line    0x0001479a      0x7a0 _build/nrf52840_xxaa/nrf_drv_uart.c.o
  .debug_line    0x00014f3a     0x21ac _build/nrf52840_xxaa/nrf_drv_usbd.c.o
  .debug_line    0x000170e6      0xb30 _build/nrf52840_xxaa/nrfx_clock.c.o
- .debug_line    0x00017c16     0x1402 _build/nrf52840_xxaa/nrfx_gpiote.c.o
- .debug_line    0x00019018      0xa28 _build/nrf52840_xxaa/nrfx_power.c.o
+ .debug_line    0x00017c16      0xa28 _build/nrf52840_xxaa/nrfx_power.c.o
+ .debug_line    0x0001863e     0x1402 _build/nrf52840_xxaa/nrfx_gpiote.c.o
  .debug_line    0x00019a40      0x762 _build/nrf52840_xxaa/nrfx_power_clock.c.o
  .debug_line    0x0001a1a2      0x88e _build/nrf52840_xxaa/nrfx_prs.c.o
  .debug_line    0x0001aa30      0xfb1 _build/nrf52840_xxaa/nrfx_uart.c.o
@@ -18886,8 +18886,8 @@ OUTPUT(_build/nrf52840_xxaa.out elf32-littlearm)
  .debug_info    0x0003c168     0x1923 _build/nrf52840_xxaa/nrf_drv_uart.c.o
  .debug_info    0x0003da8b     0x6682 _build/nrf52840_xxaa/nrf_drv_usbd.c.o
  .debug_info    0x0004410d     0x1b77 _build/nrf52840_xxaa/nrfx_clock.c.o
- .debug_info    0x00045c84     0x3b8b _build/nrf52840_xxaa/nrfx_gpiote.c.o
- .debug_info    0x0004980f     0x1ee4 _build/nrf52840_xxaa/nrfx_power.c.o
+ .debug_info    0x00045c84     0x1ee4 _build/nrf52840_xxaa/nrfx_power.c.o
+ .debug_info    0x00047b68     0x3b8b _build/nrf52840_xxaa/nrfx_gpiote.c.o
  .debug_info    0x0004b6f3      0x94c _build/nrf52840_xxaa/nrfx_power_clock.c.o
  .debug_info    0x0004c03f     0x109d _build/nrf52840_xxaa/nrfx_prs.c.o
  .debug_info    0x0004d0dc     0x3998 _build/nrf52840_xxaa/nrfx_uart.c.o
@@ -18961,8 +18961,8 @@ OUTPUT(_build/nrf52840_xxaa.out elf32-littlearm)
  .debug_abbrev  0x0000707f      0x298 _build/nrf52840_xxaa/nrf_drv_uart.c.o
  .debug_abbrev  0x00007317      0x71f _build/nrf52840_xxaa/nrf_drv_usbd.c.o
  .debug_abbrev  0x00007a36      0x4b0 _build/nrf52840_xxaa/nrfx_clock.c.o
- .debug_abbrev  0x00007ee6      0x52c _build/nrf52840_xxaa/nrfx_gpiote.c.o
- .debug_abbrev  0x00008412      0x485 _build/nrf52840_xxaa/nrfx_power.c.o
+ .debug_abbrev  0x00007ee6      0x485 _build/nrf52840_xxaa/nrfx_power.c.o
+ .debug_abbrev  0x0000836b      0x52c _build/nrf52840_xxaa/nrfx_gpiote.c.o
  .debug_abbrev  0x00008897      0x1ee _build/nrf52840_xxaa/nrfx_power_clock.c.o
  .debug_abbrev  0x00008a85      0x316 _build/nrf52840_xxaa/nrfx_prs.c.o
  .debug_abbrev  0x00008d9b      0x50f _build/nrf52840_xxaa/nrfx_uart.c.o
@@ -19072,9 +19072,9 @@ OUTPUT(_build/nrf52840_xxaa.out elf32-littlearm)
  .debug_aranges
                 0x00000ee0       0x78 _build/nrf52840_xxaa/nrfx_clock.c.o
  .debug_aranges
-                0x00000f58       0xd8 _build/nrf52840_xxaa/nrfx_gpiote.c.o
+                0x00000f58       0xa0 _build/nrf52840_xxaa/nrfx_power.c.o
  .debug_aranges
-                0x00001030       0xa0 _build/nrf52840_xxaa/nrfx_power.c.o
+                0x00000ff8       0xd8 _build/nrf52840_xxaa/nrfx_gpiote.c.o
  .debug_aranges
                 0x000010d0       0x20 _build/nrf52840_xxaa/nrfx_power_clock.c.o
  .debug_aranges
@@ -19218,10 +19218,10 @@ OUTPUT(_build/nrf52840_xxaa.out elf32-littlearm)
                               0x87522 (size before relaxing)
  .debug_str     0x0009fffc      0x778 _build/nrf52840_xxaa/nrfx_clock.c.o
                               0x84034 (size before relaxing)
- .debug_str     0x000a0774      0xcfc _build/nrf52840_xxaa/nrfx_gpiote.c.o
-                              0x852bb (size before relaxing)
- .debug_str     0x000a1470      0x37c _build/nrf52840_xxaa/nrfx_power.c.o
+ .debug_str     0x000a0774      0x37c _build/nrf52840_xxaa/nrfx_power.c.o
                               0x8127d (size before relaxing)
+ .debug_str     0x000a0af0      0xcfc _build/nrf52840_xxaa/nrfx_gpiote.c.o
+                              0x852bb (size before relaxing)
  .debug_str     0x000a17ec       0x3b _build/nrf52840_xxaa/nrfx_power_clock.c.o
                               0x7ffab (size before relaxing)
  .debug_str     0x000a1827      0x35d _build/nrf52840_xxaa/nrfx_prs.c.o
@@ -19329,8 +19329,8 @@ OUTPUT(_build/nrf52840_xxaa.out elf32-littlearm)
  .debug_loc     0x0001b164      0x1ae _build/nrf52840_xxaa/nrf_drv_uart.c.o
  .debug_loc     0x0001b312     0x200a _build/nrf52840_xxaa/nrf_drv_usbd.c.o
  .debug_loc     0x0001d31c      0x2e4 _build/nrf52840_xxaa/nrfx_clock.c.o
- .debug_loc     0x0001d600     0x2ca3 _build/nrf52840_xxaa/nrfx_gpiote.c.o
- .debug_loc     0x000202a3      0x45c _build/nrf52840_xxaa/nrfx_power.c.o
+ .debug_loc     0x0001d600      0x45c _build/nrf52840_xxaa/nrfx_power.c.o
+ .debug_loc     0x0001da5c     0x2ca3 _build/nrf52840_xxaa/nrfx_gpiote.c.o
  .debug_loc     0x000206ff       0xc6 _build/nrf52840_xxaa/nrfx_prs.c.o
  .debug_loc     0x000207c5     0x1aa4 _build/nrf52840_xxaa/nrfx_uart.c.o
  .debug_loc     0x00022269     0x14f4 _build/nrf52840_xxaa/nrfx_uarte.c.o
@@ -19400,8 +19400,8 @@ OUTPUT(_build/nrf52840_xxaa.out elf32-littlearm)
  .debug_ranges  0x00005350       0x20 _build/nrf52840_xxaa/nrf_drv_uart.c.o
  .debug_ranges  0x00005370     0x1718 _build/nrf52840_xxaa/nrf_drv_usbd.c.o
  .debug_ranges  0x00006a88      0x268 _build/nrf52840_xxaa/nrfx_clock.c.o
- .debug_ranges  0x00006cf0      0xc10 _build/nrf52840_xxaa/nrfx_gpiote.c.o
- .debug_ranges  0x00007900      0x280 _build/nrf52840_xxaa/nrfx_power.c.o
+ .debug_ranges  0x00006cf0      0x280 _build/nrf52840_xxaa/nrfx_power.c.o
+ .debug_ranges  0x00006f70      0xc10 _build/nrf52840_xxaa/nrfx_gpiote.c.o
  .debug_ranges  0x00007b80       0x10 _build/nrf52840_xxaa/nrfx_power_clock.c.o
  .debug_ranges  0x00007b90       0x38 _build/nrf52840_xxaa/nrfx_prs.c.o
  .debug_ranges  0x00007bc8      0x4b8 _build/nrf52840_xxaa/nrfx_uart.c.o
@@ -19574,10 +19574,10 @@ OUTPUT(_build/nrf52840_xxaa.out elf32-littlearm)
  .debug_macro   0x0000a390      0x3fd _build/nrf52840_xxaa/nrfx_clock.c.o
  .debug_macro   0x0000a78d       0x1c _build/nrf52840_xxaa/nrfx_clock.c.o
  .debug_macro   0x0000a7a9       0x42 _build/nrf52840_xxaa/nrfx_clock.c.o
- .debug_macro   0x0000a7eb      0x407 _build/nrf52840_xxaa/nrfx_gpiote.c.o
- .debug_macro   0x0000abf2       0x1c _build/nrf52840_xxaa/nrfx_gpiote.c.o
- .debug_macro   0x0000ac0e       0x16 _build/nrf52840_xxaa/nrfx_gpiote.c.o
- .debug_macro   0x0000ac24      0x322 _build/nrf52840_xxaa/nrfx_power.c.o
+ .debug_macro   0x0000a7eb      0x322 _build/nrf52840_xxaa/nrfx_power.c.o
+ .debug_macro   0x0000ab0d      0x407 _build/nrf52840_xxaa/nrfx_gpiote.c.o
+ .debug_macro   0x0000af14       0x1c _build/nrf52840_xxaa/nrfx_gpiote.c.o
+ .debug_macro   0x0000af30       0x16 _build/nrf52840_xxaa/nrfx_gpiote.c.o
  .debug_macro   0x0000af46      0x32f _build/nrf52840_xxaa/nrfx_power_clock.c.o
  .debug_macro   0x0000b275      0x3bc _build/nrf52840_xxaa/nrfx_prs.c.o
  .debug_macro   0x0000b631       0x28 _build/nrf52840_xxaa/nrfx_prs.c.o
@@ -19629,8 +19629,8 @@ OUTPUT(_build/nrf52840_xxaa.out elf32-littlearm)
  .debug_frame   0x0000269c       0x80 _build/nrf52840_xxaa/nrf_drv_uart.c.o
  .debug_frame   0x0000271c      0x87c _build/nrf52840_xxaa/nrf_drv_usbd.c.o
  .debug_frame   0x00002f98      0x120 _build/nrf52840_xxaa/nrfx_clock.c.o
- .debug_frame   0x000030b8      0x260 _build/nrf52840_xxaa/nrfx_gpiote.c.o
- .debug_frame   0x00003318      0x154 _build/nrf52840_xxaa/nrfx_power.c.o
+ .debug_frame   0x000030b8      0x154 _build/nrf52840_xxaa/nrfx_power.c.o
+ .debug_frame   0x0000320c      0x260 _build/nrf52840_xxaa/nrfx_gpiote.c.o
  .debug_frame   0x0000346c       0x2c _build/nrf52840_xxaa/nrfx_power_clock.c.o
  .debug_frame   0x00003498       0x4c _build/nrf52840_xxaa/nrfx_prs.c.o
  .debug_frame   0x000034e4      0x198 _build/nrf52840_xxaa/nrfx_uart.c.o
